@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:
+💫 About Me: <br>
 🔭 I’m currently working on Web Dev<br>👯 I’m looking to collaborate on Web Designing and Web Dev<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Designing
 
 
